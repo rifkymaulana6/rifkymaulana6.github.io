@@ -2,6 +2,11 @@ nav {
   background-color: #8a8a8a;
 }
 
+.nav-item:hover {
+  background-color: rgb(49, 49, 49);
+  border-radius: 10%;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #ececec;
